@@ -9,8 +9,8 @@ Our proposed Interactive Matching Network (IMN) has achieved new state-of-the-ar
 ## Results
 <img src="image/UbuntuV1_V2.png">
 <img src="image/Douban_Ecommerce.png">
-<div align=center><img width="150" height="150" src="image/UbuntuV1_V2.png"/></div>
-<div align=center><img width="150" height="150" src="image/Douban_Ecommerce.png"/></div>
+<div align=center><img src="image/UbuntuV1_V2.png"/></div>
+<div align=center><img src="image/Douban_Ecommerce.png"/></div>
 
 ## Attention
 We will release the code after paper acceptance soon. Please keep an eye on our work if you are interested.
