@@ -33,7 +33,7 @@ The training process is recorded in ```log_train_IMN_UbuntuV1.txt``` file.
 ```
 bash ubuntu_test.sh
 ```
-The testing process is recorded in ```log_test_IMN_UbuntuV1.txt``` file. And your can get a ```ubuntu_test_out.txt``` file which records scores for each context-response pair. Run the following command your can compute the metric of Recall.
+The testing process is recorded in ```log_test_IMN_UbuntuV1.txt``` file. And your can get a ```ubuntu_test_out.txt``` file which records scores for each context-response pair. Run the following command and you can compute the metric of Recall.
 ```
 python compute_recall.py
 ```
