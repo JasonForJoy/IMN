@@ -44,10 +44,13 @@ If you use the code and datasets, please cite the following paper:
 Jia-Chen Gu, Zhen-Hua Ling, Quan Liu. _CIKM (2019)_
 
 ```
-@article{gu2019interactive,
-  title={Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots},
-  author={Gu, Jia-Chen and Ling, Zhen-Hua and Liu, Quan},
-  journal={arXiv preprint arXiv:1901.01824},
-  year={2019}
+@inproceedings{gu2019interactive,
+  title        = {Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots},
+  author       = {Jia{-}Chen Gu and
+                  Zhen{-}Hua Ling and
+                  Quan Liu},
+  booktitle    = {Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  year         = {2019},
+  organization = {ACM}
 }
 ```
