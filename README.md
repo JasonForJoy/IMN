@@ -1,5 +1,5 @@
 # Interactive Matching Network for Multi-Turn Response Selection
-This repository contains the source code and datasets for the CIKM 2019 paper [Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots](http://delivery.acm.org/10.1145/3360000/3358140/p2321-gu.pdf?ip=118.143.40.9&id=3358140&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572786319_fefb7f9aac0654be961f615a505293b0) by Gu et al. <br>
+This repository contains the source code and datasets for the CIKM 2019 paper [Interactive Matching Network for Multi-Turn Response Selection in Retrieval-Based Chatbots](https://dl.acm.org/citation.cfm?id=3358140) by Gu et al. <br>
 
 Our proposed Interactive Matching Network (IMN) has achieved a new state-of-the-art performance on four large-scale datasets that are publicly available for research on multi-turn conversation.
 
